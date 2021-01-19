@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">Super Tweeter source code bby :love:</h1>
-  <h5 align="center">build your owne tweeter bot with my bot!</h5>
+  <h1 align="center">Super Tweeter source Bot :love:</h1>
+  <h5 align="center">build your owne tweeter bot with my hot source bby and teet thanks! at [@yahye](https://twitter.com/mr__yahye)</h5>
 </p>
 <hr>
 <p align="center">
