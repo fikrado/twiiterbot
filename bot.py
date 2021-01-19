@@ -25,12 +25,17 @@ search2 = 'hacking'
 search3 = 'viral'
 search4 = 'somaliland'
 search5 = 'love'
-search6 = 'cats'
+search6 = 'java'
 search7 = 'code'
 search8 = 'usa'
 search9 = 'canada'
 search10 = 'kalilinux'
-search11 = 'viral'
+search11 = 'cybersecurity'
+search12 = 'python'
+search13 = 'brutalforce'
+search14 = 'github'
+search15 = 'linux'
+search16 = 'cisco'
 
 nrTweets = 50
 
@@ -41,7 +46,7 @@ for tweet in tweepy.Cursor(api.search, search).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -52,7 +57,7 @@ for tweet in tweepy.Cursor(api.search, search4).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -63,7 +68,7 @@ for tweet in tweepy.Cursor(api.search, search2).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -74,7 +79,7 @@ for tweet in tweepy.Cursor(api.search, search3).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -85,7 +90,7 @@ for tweet in tweepy.Cursor(api.search, search5).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -96,7 +101,7 @@ for tweet in tweepy.Cursor(api.search, search6).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -107,7 +112,7 @@ for tweet in tweepy.Cursor(api.search, search7).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -118,7 +123,7 @@ for tweet in tweepy.Cursor(api.search, search8).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -129,7 +134,7 @@ for tweet in tweepy.Cursor(api.search, search9).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -140,7 +145,7 @@ for tweet in tweepy.Cursor(api.search, search10).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
@@ -151,8 +156,64 @@ for tweet in tweepy.Cursor(api.search, search11).items(nrTweets):
         tweet.favorite()
         tweet.retweet()
         api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
-        time.sleep(10)
+        time.sleep(84000)
     except tweepy.TweepError as e:
         print(e.reason)
     except StopIteration:
         break
+
+for tweet in tweepy.Cursor(api.search, search12).items(nrTweets):
+    try:
+        tweet.favorite()
+        tweet.retweet()
+        api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
+        time.sleep(84000)
+    except tweepy.TweepError as e:
+        print(e.reason)
+    except StopIteration:
+        break
+
+for tweet in tweepy.Cursor(api.search, search13).items(nrTweets):
+    try:
+        tweet.favorite()
+        tweet.retweet()
+        api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
+        time.sleep(84000)
+    except tweepy.TweepError as e:
+        print(e.reason)
+    except StopIteration:
+        break
+
+for tweet in tweepy.Cursor(api.search, search14).items(nrTweets):
+    try:
+        tweet.favorite()
+        tweet.retweet()
+        api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
+        time.sleep(84000)
+    except tweepy.TweepError as e:
+        print(e.reason)
+    except StopIteration:
+        break
+
+for tweet in tweepy.Cursor(api.search, search15).items(nrTweets):
+    try:
+        tweet.favorite()
+        tweet.retweet()
+        api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
+        time.sleep(84000)
+    except tweepy.TweepError as e:
+        print(e.reason)
+    except StopIteration:
+        break  
+
+for tweet in tweepy.Cursor(api.search, search16).items(nrTweets):
+    try:
+        tweet.favorite()
+        tweet.retweet()
+        api.update_status(status='i always tweet a real inspiring and moltivation tweet make sure you flow i love you')
+        time.sleep(84000)
+    except tweepy.TweepError as e:
+        print(e.reason)
+    except StopIteration:
+        break
+#### the code is end bye 
