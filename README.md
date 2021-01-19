@@ -1,2 +1,2 @@
 # twiiterbot
-<img src="https://artifiedweb.com/media/k2/items/cache/4a071c64184f6ed127d1b90fcde1a863_XL.jpg">
+<img src="https://files.realpython.com/media/How-to-Make-a-Twitter-Bot-in-Python-with-Tweepy_Watermarked.e0e3b3e8f6ce.jpg">
