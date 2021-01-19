@@ -1,7 +1,8 @@
 <p align="center">
-  <h1 align="center">Super Tweeter source Bot :love:</h1>
-  <h5 align="center">build your owne tweeter bot with my hot source bby and teet thanks! at [@yahye](https://twitter.com/mr__yahye)</h5>
+  <h1 align="center">Super Tweeter source Bot</h1>
+  <h5 align="center">build your owne tweeter bot with my hot source bby and teet thanks! </h5>
 </p>
+[![Github](https://img.shields.io/badge/Twitter-mr_yahye-aqua?style=for-the-badge&logo=twitter)](https://twitter.com/Mr__yahye)
 <hr>
 <p align="center">
   <img src="https://img.shields.io/github/watchers/CoreyD97/BurpCustomizer?label=Watchers&style=for-the-badge" alt="GitHub Watchers">
