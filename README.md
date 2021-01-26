@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <h3>
+  <h4>
     this is a tweeter bot that make withe python and the tweeter python labroy TWEEPY 
     it work with auto like and auto folow this bot is currently hosted in heroku cloude 
     and working profectly but the is and other bot host in repl.it the online ide useing
@@ -23,6 +23,10 @@
     like requarement.txt becouse it hosted in heroku if you need mor information go 
     to heroku.com and bot2.py need to have acont in uptimerobot and replit 
     and the keep-ALIVE.PY AS DJONKO WEB SERVER
-</h3>
+</h4>
 
+</P>
+
+<p align="center">
+<img height="150" src="https://cdn.worldvectorlogo.com/logos/heroku.svg">
 </P>
