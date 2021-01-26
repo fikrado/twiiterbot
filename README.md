@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/license/CoreyD97/BurpCustomizer?style=for-the-badge" alt="GitHub License">
 </p>
 <p align="center">
- <img height="350" src="https://files.realpython.com/media/How-to-Make-a-Twitter-Bot-in-Python-with-Tweepy_Watermarked.e0e3b3e8f6ce.jpg">
+ <img height="250" src="https://files.realpython.com/media/How-to-Make-a-Twitter-Bot-in-Python-with-Tweepy_Watermarked.e0e3b3e8f6ce.jpg">
 </p>
 
 <p align="center">
