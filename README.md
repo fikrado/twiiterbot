@@ -33,7 +33,7 @@
 HEROKU
 </h2>
 <h4>
-  heroku is and online free cloude service wich is totaly free and host deffernt apps with different programming languages
+  Heroku is a cloud platform as a service (PaaS) supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go.[1][2] For this reason, Heroku is said to be a polyglot platform as it has features for a developer to build, run and scale applications in a similar manner across most languages. Heroku was acquired by Salesforce.com in 2010 for $212 million.[3
 </h4>
 </P>
 
@@ -44,7 +44,7 @@ HEROKU
 UPTIME ROBOT
 </h2>
 <h4>
-  UPTIMEROBOT.COM IS WEB APP MONITOR WICH KEEP THE BOT A LIVE , IS COMMON USE IN DESCODE BOTS AND TELEGRAM BOTS
+  UptimeRobot is the most popular website monitoring service in the world. Currently we keep an eye on 4,500,000+ monitors for more than 800,000 users and companies. ... Set an HTTP/S, ping, port, keyword, or heartbeat monitor and get notifications to your email, phone, Telegram, Slack, Twitter, Zapier, and others.
 </h4>
 </P>
 
@@ -56,6 +56,12 @@ UPTIME ROBOT
 REPL.IT
 </h2>
 <h4>
- best online ide i ever use the repl.it ide is soo fantastic and used by profissoinal and students 
+ Repl.it is a San Francisco-based start-up and an online IDE (integrated development environment).[4] Its name comes from the acronym REPL, which stands for "read–evaluate–print loop". The service was created by Jordanian programmers Amjad Masad,[2] Faris Masad,[3] and Jordanian designer Haya Odeh[2] in 2016. Repl.it allows users to write code and build apps and websites using a browser.[5] Additionally, Repl.it allows users to share projects. Interactive programming environments are referred to as "Repls" by the service. Users can create workspaces for projects in popular programming language, granting them access to containers, in which the code is executed. Over 50 programming languages are supported, including popular languages such as Python, Ruby, and Java, as well as lesser-known or esoteric languages like LOLCODE and Brainfuck.
+
+Monaco, also used by Visual Studio Code, is used as the editor component. Ace is used by the mobile version of the site.[citation needed]
+
+Repl.it has a paid plan, the "Hacker plan". It grants access to more storage space, private code, and unlimited collaborators on projects. The GitHub Student Developer Pack includes 6 months of the Hacker plan for free.[6]
+
+The company has received funding from Y Combinator, Andreessen Horowitz, Bloomberg Beta, and others.[1] The service has over 200,000 weekly active developers[4] and over 3 million users.[citation needed] The Repl.it site also has a Talk forum.[7] The forum is used by many developers to share their project
 </h4>
 </P>
