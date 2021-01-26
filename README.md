@@ -36,3 +36,26 @@ HEROKU
   heroku is and online free cloude service wich is totaly free and host deffernt apps with different programming languages
 </h4>
 </P>
+
+
+<p align="center">
+<img height="150" src="https://superbig.co/uploads/images/icons/icon-uptimerobot.svg">
+  <h2>
+UPTIME ROBOT
+</h2>
+<h4>
+  UPTIMEROBOT.COM IS WEB APP MONITOR WICH KEEP THE BOT A LIVE , IS COMMON USE IN DESCODE BOTS AND TELEGRAM BOTS
+</h4>
+</P>
+
+
+
+<p align="center">
+<img height="150" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg">
+  <h2>
+REPL.IT
+</h2>
+<h4>
+ best online ide i ever use the repl.it ide is soo fantastic and used by profissoinal and students 
+</h4>
+</P>
