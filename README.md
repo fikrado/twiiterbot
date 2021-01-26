@@ -14,16 +14,15 @@
 </p>
 
 <p align="center">
-  <h5>
+  <h3>
     this is a tweeter bot that make withe python and the tweeter python labroy TWEEPY 
     it work with auto like and auto folow this bot is currently hosted in heroku cloude 
     and working profectly but the is and other bot host in repl.it the online ide useing
     uptimerobot.com as monotering , now you thing can i chane somrthing in code yeah
-    their is two verrion bot.py and bot2.py
-</h5>
+    their is two verrion bot.py and bot2.py the differnt is bot.py have other text 
+    like requarement.txt becouse it hosted in heroku if you need mor information go 
+    to heroku.com and bot2.py need to have acont in uptimerobot and replit 
+    and the keep-ALIVE.PY AS DJONKO WEB SERVER
+</h3>
 
 </P>
-,,,
-
-skjhsd
-,,,
